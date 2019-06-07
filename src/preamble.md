@@ -4,7 +4,7 @@
 
 A curated list of awesome articles & code for [Cloudflare Workers](https://workers.cloudflare.com/).  They are similar to [browsers' Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API), but in the cloud--flare.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.  (A bit different, since the CSV dump contains many other links that didn't make the 'awesome' list, but are still very good to look into.  Perhaps someday I'll make a seperate website for all those, but until then I have a script to build this 'best of' list.)
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.  (A bit different, since the CSV dump contains many other links that didn't make the 'awesome' list.)
 
 Please use the [Suggestion Form](https://airtable.com/shr1cr5TqmnwuQU3W) to add an URL to this list.  Use Issues only to fix something, suggest a new catgory, tag, etc.
 
