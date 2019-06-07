@@ -4,4 +4,4 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Adding a link
 
-DO NOT submit a Pull Request or open an issue to add a new link, please use the [Suggestion Form here](https://airtable.com/shr1cr5TqmnwuQU3W)
+DO NOT submit a Pull Request or open an issue to add a new link, please use the [Suggestion Form here](https://airtable.com/shryEZ28iLgjBbTCE)

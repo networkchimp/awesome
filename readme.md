@@ -6,7 +6,7 @@ A curated list of awesome articles & code for [Cloudflare Workers](https://worke
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.  (A bit different, since the CSV dump contains many other links that didn't make the 'awesome' list.)
 
-Please use the [Suggestion Form](https://airtable.com/shr1cr5TqmnwuQU3W) to add an URL to this list.  Use Issues only to fix something, suggest a new catgory, tag, etc.
+Please use the [Link Suggestion Form](https://airtable.com/shryEZ28iLgjBbTCE) to add an URL to this list.  Use Issues only to fix something, suggest a new catgory, tag, etc.
 
 
 ## Contents
@@ -25,7 +25,7 @@ Please use the [Suggestion Form](https://airtable.com/shr1cr5TqmnwuQU3W) to add 
 ## Official
 
 - [Cloudflare's Worker Forum / BBS](https://community.cloudflare.com/c/developers/workers) - Offical community forum.
-- [Wrangler: offiical CLI tool](https://github.com/cloudflare/wrangler) (WASM, CLI, tool, Rust) ([annoucement blog post](https://blog.cloudflare.com/just-write-code-improving-developer-experience-for-cloudflare-workers/#wrangler-the-official-workers-cli)) - Available via `npm` & `cargo`, can build & deploy JS, Rust, & C/C++ projects via templates.
+- [Wrangler: offiical CLI tool](https://github.com/cloudflare/wrangler) (WASM, CLI, tool, Rust) ([brief tutorial](https://dev.to/cloudflareworkers/a-brief-guide-to-what-s-new-with-cloudflare-workers-di8)) - Available via `npm` & `cargo`, can build & deploy JS, Rust, & C/C++ projects via templates.
 - [Official Documentation](https://developers.cloudflare.com/workers/about/) - General docs, includes configurations, Cf KeyValue data store, and recipes.
 - [Official Blog](https://blog.cloudflare.com/tag/workers/) - Cloudflare's blog posts tagged 'worker'.
 
@@ -38,6 +38,7 @@ Please use the [Suggestion Form](https://airtable.com/shr1cr5TqmnwuQU3W) to add 
 
 ## Article
 
+- [Official Serverless Quickstart](https://serverless.com/framework/docs/providers/cloudflare/guide/quick-start/) (Serverless) - Guide to use the Serverless Plugin to deploy CfWorkers.
 - [URL shortener with LavaRand](https://github.com/obezuk/cf-workers-link-shortener) (route, app, JS) ([short blog post](levi.lol/url-shortener-built-on-cloudflare/)) - Url shortener built with Cloudflare Workers and LavaRand.
 - [FSharp tutorial](https://github.com/jbeeko/cfworker-web-api) (app, F#) - FSharp example: CRUD contact manager.
 - [API gateway / redirect](https://github.com/jamesbibby/cloudflare-api-gateway) (REST, proxy, JS) ([diagramed article on use case](bibs.codes/posts/cloudflare-worker-api-gatway/)) - Reverse proxy layer to improve performance (HTTP1 vs HTTP2).
@@ -53,6 +54,7 @@ Please use the [Suggestion Form](https://airtable.com/shr1cr5TqmnwuQU3W) to add 
 
 ## Local-dev
 
+- [TypeScript Types and mocks](https://github.com/udacity/cloudflare-typescript-workers) (tool, template, TypeScript) - Simple example and/or starting point for a Cf worker script using TypeScript, WebPack, & Jest.
 - [Serverless framework Blueprint](https://github.com/signalnerve/serverless-cloudflare-workers-blueprint) (Serverless, tool, deploy, JS) - Configure your `.env`, & `serverless deploy` away.
 - [Run Cloudflare Worker scripts locally](https://github.com/dollarshaveclub/cloudworker) (tool, JS) - Uses Docker, nice API, includes WASM build support.
 - [Codeship to automatically update your Cloudflare Workers](https://github.com/karllhughes/workers-codeship-example) (deploy, example, JS) - Automated Deployment.

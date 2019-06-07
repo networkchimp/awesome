@@ -6,5 +6,5 @@ A curated list of awesome articles & code for [Cloudflare Workers](https://worke
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.  (A bit different, since the CSV dump contains many other links that didn't make the 'awesome' list.)
 
-Please use the [Suggestion Form](https://airtable.com/shr1cr5TqmnwuQU3W) to add an URL to this list.  Use Issues only to fix something, suggest a new catgory, tag, etc.
+Please use the [Link Suggestion Form](https://airtable.com/shryEZ28iLgjBbTCE) to add an URL to this list.  Use Issues only to fix something, suggest a new catgory, tag, etc.
 
