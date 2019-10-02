@@ -19,7 +19,7 @@ Please use the [Link Suggestion Form](https://airtable.com/shryEZ28iLgjBbTCE) to
  - [Localization](#localization)
  - [Security](#security)
  - [Apps](#apps)
-	- [Tool](#tool)
+ - [Tool](#tool)
  - [Msc](#msc)
  - [Related](#related)
 
