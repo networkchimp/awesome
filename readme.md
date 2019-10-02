@@ -18,7 +18,8 @@ Please use the [Link Suggestion Form](https://airtable.com/shryEZ28iLgjBbTCE) to
  - [Local-dev](#local-dev)
  - [Localization](#localization)
  - [Security](#security)
- - [Tool](#tool)
+ - [Apps](#apps)
+	- [Tool](#tool)
  - [Msc](#msc)
  - [Related](#related)
 
@@ -67,6 +68,15 @@ Please use the [Link Suggestion Form](https://airtable.com/shryEZ28iLgjBbTCE) to
 
 - [Set Google Analytics Client ID Cookie](https://gist.github.com/dustinrecko/9f34969250f2e0668d4c4fe4808520a7#file-worker-snippet-js) (article, analytics, JS) ([article: Google Analytics ITP 2.1 Prevention ](https://omr.ruhr/google-analytics-itp-2-1-prevention-http-set-cookie-snippet-182092779d40)) - Fool Webkit's Intelligent Tracking Prevention,  HTTP Set-Cookie /snippet/.
 - [Workaround Cloudflare's Anti-DDoS Protection](https://github.com/hrbrmstr/cfhttr) (tool, Rust) - Workaround Cloudflare Anti-DDoS Protection.
+
+## Apps
+
+- [Logflare](https://logflare.app/) - Affordable Cloudflare log management & event analytics
+- [Edgy](https://www.cloudflare.com/apps/edgy) - Free, on-demand Maintenance Mode for your site
+- [Fortify](https://www.cloudflare.com/apps/fortify) - Add custom HTTP headers to your in-flight requests
+- [Portzilla](https://www.cloudflare.com/apps/portzilla) - A reverse-proxy on the edge, no more NGINX
+- [Cassette](https://www.cloudflare.com/apps/cassette) - Cache object storage assets from S3, GCS, and more on Cloudflare
+- [Ranksense](https://www.ranksense.com) - Free real-time SEO monitoring
 
 ## Tool
 
